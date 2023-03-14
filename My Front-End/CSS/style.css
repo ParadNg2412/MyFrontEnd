@@ -1,0 +1,90 @@
+/* Place your CSS styles in this file */
+body{
+    background-color: darkred;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+.header {
+    background-color: rgb(105, 38, 13);
+    
+}
+
+.blank-top {
+    max-height: 50%;
+    width: 100%;
+}
+
+h1 {
+    text-align: left;
+    color: white;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    
+}
+
+nav .nav-main {
+    color: goldenrod;
+    text-align: center;
+    width: 100%;
+    padding-top: 100%;
+    
+}
+
+.nav-main a{
+    align-content: center;
+    text-align: center;
+}
+
+.nav-main button {
+    width: 100px;
+    
+    background-color: orangered;
+}
+
+.item1, .item2 {
+    padding-left: 18px;
+    padding-right: 18px;
+    background-color: transparent;
+    border-style: none;
+    width: 100px;
+    color: rgba(255, 217, 0, 0.896);
+    box-sizing: border-box;
+}
+
+.logo img{
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+.search {
+    align-self: left;
+}
+
+footer {
+    text-align: left;
+    background-color: black;
+    padding: 3px;
+    color: white 
+}
+
+footer .contact h1{
+    size: 45px;
+}
+
+footer .contact {
+    background-color: black;
+    bottom: auto;
+}
+
+footer .contact a{
+    color: blue;
+}
+
+.games table {
+    border:1px solid silver;
+    
+}
